@@ -1,0 +1,16 @@
+{
+  "game": "Chain Chaos",
+  "current_version": "1.0.0",
+  "latest_version": "1.1.0",
+  "update_status": "coming_soon",
+  "release_date": null,
+  "update_title": "Chain Chaos Update 1.1.0",
+  "message": "Update berikutnya sedang disiapkan. Nantikan informasinya!",
+  "changelog": [
+    "Perbaikan bug",
+    "Peningkatan performa",
+    "Konten baru akan diumumkan"
+  ],
+  "download_url": "",
+  "force_update": false
+}
